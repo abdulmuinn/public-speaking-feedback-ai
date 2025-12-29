@@ -39,8 +39,7 @@ Skor	Level
 🖥️ Cara Menggunakan
 
 Buka aplikasi Hugging Face Space:
-👉 (ganti link dengan Space kamu)
-https://huggingface.co/spaces/abdulmuinnn/public-speaking-feedback-ai
+👉  https://huggingface.co/spaces/abdulmuinnn/public-speaking-feedback-ai
 
 Upload / rekam suara (format .wav / .mp3)
 
